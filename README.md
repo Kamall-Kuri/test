@@ -2,7 +2,7 @@
 
 repo creating and pushing test with Github desktop
 
-## this is head 2 (h2)
+### this is head 2 (h2)
 
 ### to do list
 
